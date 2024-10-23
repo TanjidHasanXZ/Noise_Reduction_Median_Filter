@@ -45,7 +45,7 @@ void applyMedianFilter(int arr[], int size) {
 }
 
 int main() {
-    // Example array (from the exercise)
+    // Example array 
     int arr[] = {95, 91, 211, 97, 94, 99, 92, 96, 91, 91, 92, 91, 94};
     int size = sizeof(arr) / sizeof(arr[0]);
 
